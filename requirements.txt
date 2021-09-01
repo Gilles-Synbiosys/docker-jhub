@@ -1,0 +1,11 @@
+opencv-python==4.5.1.48
+pandas
+pyyaml==5.4.1
+openpyxl==3.0.6
+ipykernel==5.5.0
+pycine==0.3.2
+scipy
+dvc[gdrive,gs]==2.1.0
+scikit-learn==0.24.1
+scikit-image
+Pillow==8.2.0

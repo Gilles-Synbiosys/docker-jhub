@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook:177037d09156
+FROM jupyter/minimal-notebook:latest
 # Get the latest image tag at:
 # https://hub.docker.com/r/jupyter/minimal-notebook/tags/
 # Inspect the Dockerfile at:
